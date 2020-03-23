@@ -33,16 +33,3 @@ gitignore
 👤 **Eric Golde**
 
 * Github: [@egold555](https://github.com/egold555)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome !<br />Feel free to check [issues page](https://github.com/christopherkade/gitignore-it/issues).
-
-A quick contribution would be to add a new type of `.gitignore` file. Simply create the appropriate file in the `/gitignores` folder.
-
-## Show your support
-
-Give a ⭐️ if this project helped you !
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
