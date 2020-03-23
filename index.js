@@ -18,7 +18,7 @@ const {
       {
         type: prev => (prev === false ? 'autocomplete' : 'autocompleteMultiselect'),
         name: 'file',
-        message: 'What type of .gitignore file do you need?',
+        message: 'What .gitignore do you need?',
         choices: gitignoreTypes,
         min: 1,
         limit: 15,
