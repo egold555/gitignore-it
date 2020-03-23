@@ -1,6 +1,6 @@
 {
   "name": "gitignore-it",
-  "version": "1.0.4",
+  "version": "1.0.4-Eric",
   "description": "A command-line CLI to generate .gitignore files",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "gitignore"
   ],
   "preferGlobal": true,
-  "author": "Christopher Kade",
+  "author": "Christopher Kade & Eric Golde",
   "license": "MIT",
   "dependencies": {
     "prompts": "^2.1.0"
@@ -33,9 +33,5 @@
   "bugs": {
     "url": "https://github.com/christopherkade/gitignore-it/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/christopherkade/gitignore-it.git"
-  },
-  "homepage": "https://github.com/christopherkade/gitignore-it"
+  "homepage": "https://github.com/egold555/gitignore-it"
 }

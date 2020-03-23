@@ -13,11 +13,8 @@
 ## Install
 
 ```sh
-# Using Yarn
-yarn global add gitignore-it
-
-# Using npm
-npm install -g gitignore-it
+1) npm install -g gitignore-it
+2) Clone this repo over it. Not sure how to locally install it otherwise
 ```
 
 ## Usage
@@ -32,6 +29,10 @@ gitignore
 
 * Twitter: [@christo_kade](https://twitter.com/christo_kade)
 * Github: [@christopherkade](https://github.com/christopherkade)
+
+👤 **Eric Golde**
+
+* Github: [@egold555](https://github.com/egold555)
 
 ## 🤝 Contributing
 
